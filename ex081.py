@@ -1,4 +1,7 @@
-"""listaNum = []
+"""Crie um programa que vai ler vários números e colocar em uma lista
+
+
+listaNum = []
 c = 0
 resp = 'S'
 while True:
