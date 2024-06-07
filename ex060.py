@@ -1,4 +1,6 @@
-"""from math import factorial
+"""Exercício Python 060: Faça um programa que leia um número qualquer e mostre o seu fatorial. Exemplo: 5! = 5 x 4 x 3 x 2 x 1 = 120
+
+from math import factorial
 num = int(input("Digite o valor que precisa saber o fatorial: "))
 f = factorial(num)
 print("O fatorial de {} é igual {}.".format(num, f))"""
